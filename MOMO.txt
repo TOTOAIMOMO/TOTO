@@ -1,0 +1,210 @@
+测试,#genre#
+思密达内衣秀,rtmp://123.108.164.71/etv2sb/phd43
+ 思密达高清4台,rtmp://123.108.164.71/etv2sb/phd10062
+ 思密达高清8台,rtmp://123.108.164.71/etv2sb/phd10499
+ 思密达高清9台,rtmp://123.108.164.71/etv2sb/phd10501
+日欧1,http://64.140.160.186:8066/HLS/live/101/index.m3u8?mid=64&pwd=mars
+ 日欧2,http://64.140.160.186:8066/HLS/live/102/index.m3u8?mid=64&pwd=mars
+日本直播1,p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
+日本直播2,p2p://50.7.104.10:9906/540050290000343a015059b37121116a
+韩国有码成人高清1,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
+韩国有码成人高清2,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+极乱家族01,http://69.46.75.107/files/videos/140747456300c03.flv
+极乱家族02,http://69.46.75.107/files/videos/1408405892924a3.flv
+狂插爱神,http://120.52.73.93/s1.bbbplayer.com/3dm-78.mp4
+英雄好色,http://120.52.73.94/s1.bbbplayer.com/3dm-67.mp4
+极乐酷刑,http://120.52.73.90/s1.bbbplayer.com/3dm-69.mp4
+香港学院1994,http://120.52.73.91/s1.bbbplayer.com/20158cn-003.mp4
+爱用国货,p2p://61.221.233.81:9000/5606ca47000dee8e0196370f050348e3.ts
+韩-新唐人TND http://123.108.164.71/etv2/phd1058/playlist.m3u8
+韩国高清4 rtmp://123.108.164.71/etv2sb/phd10062
+韩国标清4 http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
+韩国标清7playboy http://123.108.164.110/etv1sb/pld10497/playlist.m3u8
+韩国高清1台 http://123.108.164.75/etv2sb/phd10059/playlist.m3u8
+84日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4133.mp4
+85日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4134.mp4
+154日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4240.mp4
+日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4279.mp4
+日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4240.mp4
+日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4241.mp4
+日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4294.mp4
+一本道2,rtmp://198.211.33.185/livepkgr/1C
+一本道3,rtmp://198.211.33.185/livepkgr/3C
+绝美女优13,http://69.46.86.186:1935/vod/mp4:ab-009-5.mp4/playlist.m3u8
+绝美女优14,http://69.46.86.186:1935/vod/mp4:ab-006-5.mp4/playlist.m3u8
+绝美女优15,http://69.46.86.186:1935/vod/mp4:ab-003-5.mp4/playlist.m3u8
+绝美女优16,http://69.46.86.186:1935/vod/mp4:ab-002-5.mp4/playlist.m3u8
+绝美女优17,http://69.46.86.186:1935/vod/mp4:ab-001-5.mp4/playlist.m3u8
+绝美女优18,http://v.oywine.com:8091/wuma/20160422/17994/1/hls/index.m3u8
+撞够本,http://120.52.73.90/s1.bbbplayer.com/3dm-60.mp4/playlist.m3u8
+新木紫织,http://23.27.103.162:1935/vod/mp4:mkd-s114-500.mp4/playlist.m3u8
+东京热,p2p://61.221.233.81:9000/5606ca1a0000960e019583e61e8c38f0.ts
+春天之爱,p2p://61.221.233.81:9000/5606c9f5000bffa40194f648464f5cf3.ts
+playy台 http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
+时尚19禁,rtmp://edge2.everyon.tv/etv2/pld24
+韩国内衣秀,rtmp://123.108.164.71/etv2sb/phd43
+情趣女优,http://v.oywine.com:8091/wuma/20160422/18352/1/hls/index.m3u8
+情趣女优1,http://v.oywine.com:8091/wuma/20160330/14705/1/hls/index.m3u8	
+情趣女优2,http://v.oywine.com:8091/wuma/20160330/18326/1/hls/index.m3u8
+VISIT-X TV,rtmp://stream.visit-x.tv/vxtv/live_720p
+JasminTV HD,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+PASSIXXX,http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+欧美辣椒1,p2p://good.govsms.net:6060/56b159c20006edbf893d891e65fb6d0f.ts
+欧美辣椒2,p2p://good.govsms.net:6060/56b159d700034b2a893dda3c0ee74b3a.ts
+迈阿密性感采访1,http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w732305586_b1550000.m3u8
+迈阿密性感采访2,http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+迈阿密性感采访3,http://sasuketv.iptvitalia.eu:2300/live/drunk/drunk/10079.ts
+欧美人妖,p2p://61.221.233.81:9000/5606bb3400065a1f015b52e7599c4725.ts
+特殊重口味,p2p://61.221.233.81:9000/5606ca6a000da06f0196bfbe3cb63127.ts
+欧式连动,p2p://61.221.233.81:9000/5606c970000d262a0192ef072f1777f1.ts
+电影直播1HD,http://streamup.global.ssl.fastly.net/app/twkumazombie005s-channel/chunklist.m3u8
+电影直播2HD,http://streamup.global.ssl.fastly.net/app/marxethics-channel/chunklist.m3u8
+电影直播3HD,http://streamup.global.ssl.fastly.net/app/geatv24s-channel/chunklist.m3u8
+电影直播4HD,http://streamup.global.ssl.fastly.net/app/gtot2200s-stream/chunklist.m3u8
+鱼儿影院,rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/6500_S9pw2
+波妞,http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+电影2恐怖洋片,rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/7032_0s2qn
+幂诗影院,rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
+高清电影3,rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
+高清电影3,http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?
+高清电影6,http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+高清电影9,http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/27478_syWmp.flv?wshc_tag=0&wsiphost=ipdbm
+高清电影9,http://wshdl.load.cdn.zhanqi.tv/zqlive/27478_syWmp.flv
+高清电影10,http://182.34.127.33/wshdl.load.cdn.zhanqi.tv/zqlive/15773_BDfrG.flv?wshc_tag=0&wsiphost=ipdbm
+韩国GirlTv台,rtmp://123.108.164.71/etv2sb/pld501
+欧美05,http://galsflv.videosz.com//mom-and-the-pop_4/videosz-mom-and-the-pop-42.flv
+欧美06,http://galsflv.videosz.com//cum-filled-milfs_3/videosz-cum-filled-milfs-32.flv
+欧美10,http://galsflv.videosz.com//squirters-and-gushers_2/videosz-squirters-and-gushers-23.flv
+性感2台HD，,rtmp://edge2.everyon.tv/etv2/pld1005
+兔子成人台HD，,rtmp://edge2.everyon.tv/etv2/pld1006
+韩国红圈一台，,rtmp://edge2.everyon.tv/etv2/pld1008
+棒子3,rtmp://edge2.everyon.tv/etv2/phd1005
+日本台8,rtsp://c.itvitv.com/wowow.ghfyenxdhfdscz
+日韩CR电影5,rtmp://123.108.164.71/etv2/phd1005
+日本无码1,http://199.195.195.108:32001
+日本无码4,http://199.195.195.108:32004
+KoreaOkadai,rtmp://edge2.everyon.tv/etv2/pld1003
+KoreaOkadaiHD,http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
+x3,http://208.122.3.2:9000
+欧美WM1,http://199.195.195.108:32005
+韓國成人9頻道,rtmp://edge2.everyon.tv/etv2sb/phd499
+韓國成人10頻道,rtmp://edge2.everyon.tv/etv2sb/phd501
+韓國成人12頻道,rtmp://edge2.everyon.tv/etv2sb/phd511
+韓國成人13頻道,rtmp://edge2.everyon.tv/etv2sb/phd743
+韓國成人16頻道,rtmp://edge2.everyon.tv/etv2sb/phd771
+韓國成人18頻道,rtmp://edge2.everyon.tv/etv2sb/phd968
+韓國成人19頻道,rtmp://edge2.everyon.tv/etv2sb/phd991
+韓國成人20頻道,rtmp://edge2.everyon.tv/etv2sb/phd992
+韓國成人21頻道,rtmp://edge2.everyon.tv/etv2sb/phd993
+花花公子韩国1,rtmp://123.108.164.71/etv2sb//pld769
+新韩源6,rtmp://edge2.everyon.tv/etv2/phd1006
+新韩源8,rtmp://edge2.everyon.tv:1935/etv2/phd877
+新韩源9,rtmp://edge2.everyon.tv:1935/etv2/phd1008
+韩国有码标清01,rtmp://123.108.164.71/etv2sb/pld59
+韩国有码标清02,rtmp://123.108.164.71/etv2sb/pld60
+韩国有码标清03,rtmp://123.108.164.71/etv2sb/pld61
+成人高清16台,rtmp://edge1.everyon.tv/etv1sb/phd927
+成人高清18台,rtmp://edge2.everyon.tv/etv2sb/phd968
+成人高清19台,rtmp://edge2.everyon.tv/etv2sb/phd991
+性感2台HD，,rtmp://edge2.everyon.tv/etv2/pld1005
+兔子成人台HD，,rtmp://edge2.everyon.tv/etv2/pld1006
+韩国红圈一台，,rtmp://edge2.everyon.tv/etv2/pld1008
+性感2台HD,rtmp://edge2.everyon.tv/etv2/pld1005
+兔子成人台HD,rtmp://edge2.everyon.tv/etv2/pld1006
+韩国红圈一台,rtmp://edge2.everyon.tv/etv2/pld1008
+韩国成人1台,rtmp://123.108.164.71/etv2sb/pld59
+韩国成人2台,rtmp://123.108.164.71/etv2sb/pld60
+playy19+成人台,rtmp://123.108.164.71/etv2sb/pld61
+韩国成人4台,rtmp://123.108.164.71/etv2sb/pld62
+Delight EnpireTV,rtmp://123.108.164.71/etv2sb/pld64
+菊花成人台,rtmp://123.108.164.71/etv2sb/pld511
+JHTG-tv成人台,rtmp://123.108.164.71/etv2sb/pld771
+butgo-tv成人台,rtmp://123.108.164.71/etv2sb/pld772
+Fetish-tv成人台,rtmp://123.108.164.71/etv2sb/pld968
+VisitxTV成人台,rtmp://123.108.164.71/etv2sb/pld991
+欧美CR成人台,rtmp://123.108.164.71/etv2/pld1005
+影视25,rtmp://123.108.164.71/etv2sb/phd63
+影视27,rtmp://123.108.164.71/etv2sb/phd64
+影视28,rtmp://123.108.164.71/etv2sb/phd499
+影视31,rtmp://123.108.164.71/etv2sb/phd769
+成人4台,rtmp://123.108.164.71/etv2sb/phd62
+成人6台,rtmp://123.108.164.71/etv2sb/phd499
+成人9台,rtmp://123.108.164.71/etv2sb/phd769
+成人12台,rtmp://123.108.164.71/etv2sb/phd968
+成人14台,rtmp://123.108.164.71/etv2sb/phd992
+成人15台,rtmp://123.108.164.71/etv2sb/phd993
+直播01,rtmp://edge2.everyon.tv/etv2/phd1005
+直播02,rtmp://edge2.everyon.tv/etv2/phd1003
+直播07,rtmp://edge2.everyon.tv/etv2/phd1006
+直播08,rtmp://edge2.everyon.tv/etv2/phd1008
+直播09,rtmp://edge2.everyon.tv/etv2sb/pld769
+直播10,rtmp://edge2.everyon.tv/etv2sb/phd59
+ソタチツッテトヰ14,http://edge2.everyon.tv/etv2sb/phd511/chunklist_w1191260607.m3u8
+ソタチツッテトヰ15,http://edge1.everyon.tv/etv1sb/phd765/chunklist_w1483718874.m3u8
+ソタチツッテトヰ16,http://edge1.everyon.tv/etv1sb/phd766/chunklist_w468394586.m3u8
+韩国红圈一台,rtmp://edge2.everyon.tv/etv2/pld1008
+韩国成人1台,rtmp://123.108.164.71/etv2sb/pld59
+韩国成人2台,rtmp://123.108.164.71/etv2sb/pld60
+花花公子成人台,rtmp://123.108.164.71/etv2sb/pld499
+樱花TV成人台,rtmp://123.108.164.71/etv2sb/pld501
+菊花成人台,rtmp://123.108.164.71/etv2sb/pld511
+韩国红圈2台,rtmp://123.108.164.71/etv2sb/pld769
+butgo-tv成人台,rtmp://123.108.164.71/etv2sb/pld772
+pbuy-tv成人台,rtmp://123.108.164.71/etv2sb/pld993
+Fetish-tv成人台,rtmp://123.108.164.71/etv2sb/pld968
+VisitxTV成人台,rtmp://123.108.164.71/etv2sb/pld991
+playy2成人台,rtmp://123.108.164.71/etv2sb/pld992
+欧美CR成人台,rtmp://123.108.164.71/etv2/pld1005
+影视18,rtmp://123.108.164.71/etv2sb/pld992
+影视19,rtmp://123.108.164.71/etv2sb/pld993
+影视21,rtmp://123.108.164.71/etv2/pld1006
+?Korea Ask1 TV,http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
+Korea Ask TV,rtmp://edge2.everyon.tv/etv2/phd1005
+Korea Okadai,rtmp://edge2.everyon.tv/etv2/pld1003
+Korea Okadai HD,http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8#rtmp://edge2.everyon.tv/etv2/phd1003
+Korea Paradise TV,rtmp://edge2.everyon.tv/etv2/pld1008
+成人1台,rtmp://123.108.164.71/etv2sb/phd59
+成人3台,rtmp://123.108.164.71/etv2sb/phd61
+成人5台,rtmp://123.108.164.71/etv2sb/phd64
+成人7台,rtmp://123.108.164.71/etv2sb/phd501
+成人9台,rtmp://123.108.164.71/etv2sb/phd769
+成人10台,rtmp://123.108.164.71/etv2sb/phd771
+成人16台,rtmp://123.108.164.71/etv2/phd1003
+成人17台,rtmp://123.108.164.71/etv2/phd1005
+成人19台,rtmp://123.108.164.71/etv2/phd1008
+韓國成人→3頻道,rtmp://edge2.everyon.tv/etv2sb/phd60#http://cr.stream.omc.hk/etv2sb/phd60/chunklist_w1170594935.m3u8
+韓國成人→6頻道,rtmp://edge2.everyon.tv/etv2sb/phd63
+韓國成人→7頻道,rtmp://edge2.everyon.tv/etv2sb/phd64#http://cr.stream.omc.hk/etv2sb/phd64/playlist.m3u8
+韓國成人→9頻道,rtmp://edge2.everyon.tv/etv2sb/phd499
+韩国-Play-769           ,http://edge2.everyon.tv/etv2sb/phd769/playlist.m3u8
+韩国-playboyTV-499      ,http://edge2.everyon.tv/etv2sb/phd499/playlist.m3u8
+韩国-ButGo-772          ,http://edge2.everyon.tv/etv2sb/phd772/playlist.m3u8
+韩国-1003       ,rtmp://edge2.everyon.tv/etv2/phd1003
+韩国-968	,http://edge2.everyon.tv/etv2sb/phd968/playlist.m3u8
+韩国-1005	,http://edge2.everyon.tv/etv2/phd1005/chunklist_w982667849.m3u8
+韩国-1006       ,rtmp://edge2.everyon.tv/etv2/phd1006
+韩国-59  	,http://edge2.everyon.tv/etv2sb/phd59/HasBahCa.m3u8
+韩国-60	        ,http://edge2.everyon.tv/etv2sb/phd60/playlist.m3u8
+韩国-61 	,http://edge2.everyon.tv/etv2sb/phd61/chunklist_w831504806.m3u8
+韩国-501	,http://edge2.everyon.tv/etv2sb/phd501/chunklist_w1120440173.m3u8
+韩国-771        ,rtmp://edge2.everyon.tv/etv2sb/phd771
+韩国-743        ,http://edge2.everyon.tv/etv2sb/phd743/playlist.m3u8
+法国时装	,http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+日本无码2	,http://199.195.195.108:32002
+日本无码4	,http://199.195.195.108:32004
+欧美无码2	,http://199.195.195.108:32006
+Penthouse Asia 18++ HD,rtmp://edge1.everyon.tv/etv1sb/phd927
+Midnight HD,rtmp://edge1.everyon.tv/etv1sb/phd766
+HAPPY有码成人,p2p://60.249.213.25:9900/57131ec4000aee3400d1a3256523166c
+HOT频道,p2p://60.249.213.25:9900/571339e6000011ba013b9d1f6d7a22db
+Hiplay玩家频道,p2p://60.249.213.25:9900/57131ea6000354ae00d12c0373ba663c
+惊艳成人,p2p://60.249.213.25:9900/57131c150000c94c00c724f1771a7869
+叮当成人,p2p://60.249.213.25:9900/57131b30000c526b00c3a95c2d4e34b2
+香蕉成人,p2p://60.249.213.25:9900/57131bf0000c667c00c69762056c7489
+HOT(限18+),rtmp://lv1.ts33.net:1935/tv/ttv11
+星颖STAR(限18+),rtmp://lv1.ts33.net:1935/tv/ttv12
+PASSIXXX,http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+BabeStation X-Treme,http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+Korea Paradise TV,rtmp://edge2.everyon.tv/etv2/pld1008
+private SpiceTV,rtmp://123.108.164.71/etv2//pld1005
+	
